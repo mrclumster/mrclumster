@@ -2,10 +2,11 @@
 
 I build scalable, user-centric web applications with a focus on UI/UX and clean architecture. Currently specializing in the React ecosystem and solving complex problems with modern tech.
 
-<p align="left">
+<p align="center">
   <a href="https://www.coursera.org/account/accomplishments/professional-certificate/YOUR_CERT_ID" target="_blank">
     <img src="https://img.shields.io/badge/Google-IT%20Support%20Professional-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google IT Support Professional">
   </a>
+  &nbsp;&nbsp;
   <a href="https://aziztebbeng.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Visit_my_Website-aziztebbeng.vercel.app-blue?style=for-the-badge&logo=vercel" alt="Visit my Website">
   </a>
