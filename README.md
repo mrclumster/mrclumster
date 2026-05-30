@@ -1,8 +1,8 @@
 # Full Stack Developer & Software Engineer | Google Certified IT Professional
 
-<p align="left">
+<p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&vCenter=true&width=435&lines=Software+Developer;Computer+Vision+Enthusiast;Linux+SysAdmin" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&vCenter=true&width=435&lines=Software+Developer;Full+Stack+Developer;IT+Support" alt="Typing SVG" />
   </a>
 </p>
 
