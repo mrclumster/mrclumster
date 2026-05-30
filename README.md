@@ -16,6 +16,9 @@ I build scalable, user-centric web applications with a focus on UI/UX and clean 
 
 <p align="center">
   <img src="https://github-readme-stats-one.vercel.app/api?username=mrclumster&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats-one.vercel.app/api/top-langs/?username=mrclumster&layout=compact&theme=tokyonight&hide_border=true&count_private=true" alt="Top Languages" />
 </p>
+
+## 🕒 Recent Activity
+<!--START_SECTION:activity-->
+*Initial sync in progress...*
+<!--END_SECTION:activity-->
