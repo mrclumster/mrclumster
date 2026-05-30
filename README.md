@@ -26,6 +26,10 @@ I build scalable, user-centric web applications with a focus on UI/UX and clean 
   <a href="https://github.com/FrancoStino/github-contribution-card">
     <img src="https://github-contribution-card.vercel.app/api?username=mrclumster&theme=tokyonight" alt="My Contribution Stats" />
   </a>
+  <br/>
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=mrclumster&theme=tokyonight" alt="GitHub Streak" />
+  </a>
 </p>
 
 ## 🕒 Recent Activity
