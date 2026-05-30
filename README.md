@@ -10,3 +10,10 @@ I build scalable, user-centric web applications with a focus on UI/UX and clean 
     <img src="https://img.shields.io/badge/Visit_my_Website-aziztebbeng.vercel.app-blue?style=for-the-badge&logo=vercel" alt="Visit my Website">
   </a>
 </p>
+
+## 📊 GitHub Analytics
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=mrclumster&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrclumster&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages">
+</p>
