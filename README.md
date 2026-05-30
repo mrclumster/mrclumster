@@ -1,5 +1,11 @@
 # Full Stack Developer & Software Engineer | Google Certified IT Professional
 
+<p align="left">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&vCenter=true&width=435&lines=Software+Developer;Computer+Vision+Enthusiast;Linux+SysAdmin" alt="Typing SVG" />
+  </a>
+</p>
+
 I build scalable, user-centric web applications with a focus on UI/UX and clean architecture. Currently specializing in the React ecosystem and solving complex problems with modern tech.
 
 <p align="center">
