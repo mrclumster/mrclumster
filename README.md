@@ -13,7 +13,8 @@ I build scalable, user-centric web applications with a focus on UI/UX and clean 
 
 ## 📊 GitHub Analytics
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=mrclumster&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrclumster&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mrclumster&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="195">
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrclumster&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="195">
 </p>
