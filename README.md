@@ -28,13 +28,6 @@ I build scalable, user-centric web applications with a focus on UI/UX and clean 
   </a>
 </p>
 
-## 🎵 Now Playing
-<p align="center">
-  <a href="https://github.com/novatorem/spotify-readme">
-    <img src="https://novatorem-spotify-readme.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff&bar_color=53b14f&bar_color_active=f0f0f0" alt="Spotify Status" />
-  </a>
-</p>
-
 ## 🕒 Recent Activity
 <!--START_SECTION:activity-->
 *Initial sync in progress...*
